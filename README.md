@@ -1,4 +1,5 @@
 Meta PAES ejercicio
+
 Meta PAES ejercicio es un sistema de gestión de postulaciones desarrollado en Python. Permite la administración de carreras académicas y el registro de postulantes, asegurando que los datos ingresados cumplan con formatos específicos mediante un módulo de validaciones robusto.
 
 🚀 Características
