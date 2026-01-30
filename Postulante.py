@@ -52,5 +52,3 @@ class Postulante:
 
     def __str__(self):
         return f"Nombre :{self.nombre} | Rut :{self.rut} | Promedio Paes : {self.promedio_paes()} | NEM: {self.promedio_nem()} | Ranking: {self.promedio_ranking()}"
-    #def __repr__(self):
-        return f"{self.promedio_paes()} | {self.__nem} | {self.__ranking}"
